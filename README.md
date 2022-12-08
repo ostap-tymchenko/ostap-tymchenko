@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ostap-tymur-tymchenko</h1>
+<h2 align="center">Hi, I'm ostap-tymur-tymchenko</h2>
 <h3 align="center">A passionate backend and linux dev from Ukraine</h3>
 
 - 🔭 I’m currently working on [AOC 2022](https://github.com/ostap-tymchenko/advent-of-code-2022)
