@@ -16,5 +16,5 @@ All of my projects are available here
 
 reach me at  **ostap.tymchenko@gmail.com**
 
-Im looking for work! here my [resume](https://docs.google.com/document/d/1jceeBEjBIUUgk_26mscVEXBGNuOi5prxM-1p99DCs2M/edit#heading=h.5rf9wr4r3no2)
+Im looking for work! here is my [resume](https://docs.google.com/document/d/1jceeBEjBIUUgk_26mscVEXBGNuOi5prxM-1p99DCs2M/edit#heading=h.5rf9wr4r3no2)
 </h5>
