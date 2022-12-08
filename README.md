@@ -1,6 +1,6 @@
 ![a.png](background.jpg)<h2 align="center">I am **ostap-tymur-tymchenko**</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ostap-tymchenko&show_icons=true&locale=en&layout=compact" alt="ostap-tymchenko" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ostap-tymchenko&show_icons=true&locale=en&layout=compact" alt="ostap-tymchenko" /></p> -->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ostap-tymchenko&show_icons=true&locale=en" alt="ostap-tymchenko" /></p>
 
