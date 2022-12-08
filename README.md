@@ -1,4 +1,4 @@
-![a.png](1111.jpg)<h2 align="center">I am **ostap-tymur-tymchenko**</h2>
+![a.png](background.jpg)<h2 align="center">I am **ostap-tymur-tymchenko**</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ostap-tymchenko&show_icons=true&locale=en&layout=compact" alt="ostap-tymchenko" /></p>
 
