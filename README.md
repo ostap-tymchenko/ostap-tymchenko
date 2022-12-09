@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ostap-tymchenko&" alt="ostap-tymchenko" /></p>
 
-<h3 align="center">I am a passionate backend, linux, and (half?) stack dev from Ukraine</h3>
+<h3 align="center">I am a backend, linux, and (half?) stack dev from Ukraine</h3>
 
 <h5 align="center">
 
