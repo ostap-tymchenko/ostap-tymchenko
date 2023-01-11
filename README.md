@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I am ostap-timur-tymchenko, and im open for jobs!</h1>
+![a.png](background.jpg)<h1 align="center">Hi I am **ostap-tymur-tymchenko**, and im open for jobs!   </h1>
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ostap-tymchenko&show_icons=true&locale=en" alt="ostap-tymchenko" /></p>
 
