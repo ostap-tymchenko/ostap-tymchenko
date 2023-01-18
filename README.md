@@ -2,7 +2,7 @@
 
 ![a.png](background.jpg)<h1 align="center">Hi I am **ostap-tymur-tymchenko**, and im open for jobs!   </h1>
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ostap-tymchenko&show_icons=true&locale=en" alt="ostap-tymchenko" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ostap-tymchenko&show_icons=true&locale=en" alt="ostap-tymchenko" /></p> -->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ostap-tymchenko&" alt="ostap-tymchenko" /></p>
 
@@ -14,7 +14,7 @@ I’m currently working on [AOC 2022](https://github.com/ostap-tymchenko/advent-
 
 🌱 I’m currently learning **Rust** and more
 
-All of my projects are available here
+<!-- All of my projects are available here -->
 
 reach me at  **ostap.tymchenko@gmail.com**
 
