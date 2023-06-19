@@ -10,13 +10,14 @@
 
 <h5 align="center">
 
-I’m currently working on [AOC 2022](https://github.com/ostap-tymchenko/advent-of-code-2022)
+I last worked on [AOC 2022](https://github.com/ostap-tymchenko/advent-of-code-2022)
 
 🌱 I’m currently learning **Rust** and more
 
 <!-- All of my projects are available here -->
 
 reach me at  **ostap.tymchenko@gmail.com**
+or **ostapt2@nycstudents.net**
 
-Im looking for work! here is my [resume](https://docs.google.com/document/d/1jceeBEjBIUUgk_26mscVEXBGNuOi5prxM-1p99DCs2M/edit#heading=h.5rf9wr4r3no2)
+Im looking for work! here is my [resume](https://docs.google.com/document/d/1vQY6LuQq3RmdA8hWDNe58ZJxNJqMP8fN1d-0JXzmNJI/edit?usp=sharing)
 </h5>
