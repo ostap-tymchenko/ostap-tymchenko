@@ -4,7 +4,7 @@
   
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ostap-tymchenko&show_icons=true&locale=en" alt="ostap-tymchenko" /></p> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ostap-tymchenko&" alt="ostap-tymchenko" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ostap-tymchenko&theme=rose&hide_border=true&mode=weekly" alt="ostap-tymchenko" /></p>
 
 <h3 align="center">I am a backend, linux, and systems dev from Ukraine</h3>
 
