@@ -9,9 +9,6 @@
 <h3 align="center">I am a backend, linux, and systems dev from Ukraine</h3>
 
 <h5 align="center">
-
-I last worked on [AOC 2022](https://github.com/ostap-tymchenko/advent-of-code-2022)
-
 🌱 I’m currently learning **Rust** and more
 
 <!-- All of my projects are available here -->
